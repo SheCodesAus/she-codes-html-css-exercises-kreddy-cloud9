@@ -1,0 +1,53 @@
+body {    
+    margin: 50px;
+    }
+    
+    h1 {    
+    font-size: 1rem;    
+    color: #ff006f;    
+    margin: 0;
+    }
+    
+    #coders{
+        color: #ff006f; 
+    }
+    
+    header {    
+    display: flex;    
+    justify-content: space-between;    
+    align-items: center;       
+    margin-bottom: 20px;
+    padding: 20px;
+    }
+    
+    .main-heading{
+    display: block;
+    text-align: center; 		
+    }
+    
+    div.gallery {
+        display:inline;
+        margin: 30px;
+        padding: 30px;
+      border: 1px solid #ccc;
+      float: left;
+      width: 250px;
+    }
+    
+    div.gallery img{
+        
+        width:100%;
+        height:auto;
+        
+    }
+    
+    div.desc {
+      padding: 15px;
+      text-align: center;
+    }
+    
+  
+  
+  
+
+

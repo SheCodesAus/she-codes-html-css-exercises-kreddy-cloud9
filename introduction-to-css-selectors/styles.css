@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(180, 180, 202);
+}
+div{
+    background-color: rgb(223, 179, 199);
+}
+
+.list-item{
+    background-color: rgb(180, 159, 107);
+}
+.main-heading {
+    background-color: burlywood;
+}
+
+#first-paragraph{
+    background-color: antiquewhite;
+}
